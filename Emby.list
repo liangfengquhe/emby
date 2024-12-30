@@ -7,6 +7,9 @@
 # DOMAIN-SUFFIX: 45
 # PROCESS-NAME: 1
 # TOTAL: 52
+DOMAIN-SUFFIX,emby.bangumi.ca
+DOMAIN-SUFFIX,media.nijigem.by
+DOMAIN-SUFFIX,ju.sfcj.org
 DOMAIN,emby.enjoyit.eu.org
 DOMAIN,emby.lcloud.wiki
 DOMAIN,notnetflix.cos.cat
@@ -58,7 +61,4 @@ DOMAIN-SUFFIX,xmsl.org
 DOMAIN-KEYWORD,emby.wtf
 DOMAIN-KEYWORD,jmsooo
 DOMAIN-KEYWORD,odysseyplus
-DOMAIN-SUFFIX,emby.bangumi.ca
-DOMAIN-SUFFIX,media.nijigem.by
-DOMAIN-SUFFIX,ju.sfcj.org
 PROCESS-NAME,com.mb.android
