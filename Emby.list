@@ -1,5 +1,7 @@
 # NAME: Emby
 # UPDATED: 2025-1-29 13:47:401
+DOMAIN-SUFFIX,a.emby.my
+DOMAIN-SUFFIX,b.emby.my
 DOMAIN-SUFFIX,us.nanflix.net
 DOMAIN-SUFFIX,emby.wenjian.de
 DOMAIN-SUFFIX,emby.jingzhe.pro
